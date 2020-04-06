@@ -1,0 +1,53 @@
+// Main varz
+//Colorzzz
+/* Green */
+$green-accent: #00FFB8;
+
+/* Shades of green */
+$green-900: #119681;
+$green-800: #1eab90;
+$green-700: #30bd9f;
+$green-600: #45cead;
+$green-500: #5dddbb;
+$green-400: #78e9c8;
+$green-300: #94f3d4;
+$green-200: #b2f9e1;
+$green-100: #cffeec;
+$green-50: #e9fdf5;
+
+$red-accent: #FF0047;
+/* Black base */
+$base-dark: #1D1D1D;
+/* White Base */
+$base-light: #FBFCFE;
+/* Shades of grey */
+$grey-900: #282828;
+$grey-600: #6B6B6C;
+$grey-300: #AEAEAF;
+$grey-800: #3E3E3F;
+$grey-500: #818283;
+$grey-200: #C4C4C6;
+$grey-700: #545556;
+$grey-400: #979899;
+$grey-100: #DADBDC;
+$grey-50: #F0F1F3;
+
+
+
+/* Primary */
+$base-primary-accent:$green-accent;
+$base-primary:$green-700;
+/* --- */
+ 
+//Fontz
+$font-funky-family:'Work Sans', sans-serif; 
+$font-title-family:'Work Sans', sans-serif; 
+$font-body-family:'Work Sans', sans-serif; 
+//
+$font-h1-size:5rem;
+$font-h2-size:2.5rem;
+$font-h3-size:1.5rem;
+$font-h4-size:1rem;
+$font-h5-size:.75rem;
+//
+$font-body-size:$font-h4-size;

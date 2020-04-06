@@ -1,0 +1,6 @@
+/* Typography */
+@mixin body-main ($fontSize) {
+    font-family: $font-body-family;
+    font-weight: 300;
+    font-size: $font-body-size;
+}
